@@ -1,0 +1,7 @@
+Kerbal Kombat Anthology submodification for BDArmory for Kerbal Space Program.
+
+Models by RoyalRedBird.
+Configuration by Toonu.
+Radar Balancing by Saturn.
+
+Big thanks to other major or minor contributors of the KAA Team not included in the credits.
