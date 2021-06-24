@@ -1,0 +1,1 @@
+All these balanacing patches are meant for the NoU Modpack and community and are substantiated with SMA folder present in that modpack. If you want to make one of them work, remove all or some NEEDS[SMA].
