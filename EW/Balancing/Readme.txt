@@ -1,1 +1,1 @@
-All these balanacing patches are meant for the NoU Modpack and community and are substantiated with SMA folder present in that modpack. If you want to make one of them work, remove all or some NEEDS[SMA].
+All these balanacing patches are meant for the NoU Modpack and its community and are substantiated with SMA folder present in that modpack. If you want to make them work, add empty SMA folder into your GameData. If you want only some, remove the check ":NEEDS[SMA]" from their root patch.
